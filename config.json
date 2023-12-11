@@ -1,0 +1,10 @@
+{
+    "author": "Alex Nguyen",
+    "version": "1.0",
+    "train": "./train/test.jpg",
+    "references": {
+        "youtu.be": [
+            "oyqNdcbKhew"
+        ]
+    }
+}
