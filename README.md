@@ -1,2 +1,2 @@
 # djcode
-It's will be written in the future..
+It will be written in the future..
